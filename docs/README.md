@@ -642,6 +642,7 @@ In order to apply CSS customizations in this and other blocks, follow the instru
 | `bankInvoiceEmbed`           |
 | `bankInvoiceEmbedBackground` |
 | `bankInvoiceEmbedWrapper`    |
+| `barCodeContainer`           |
 | `barCodeCopyButtonWrapper`   |
 | `barCodeNumber`              |
 | `barCodeWrapper`             |
@@ -681,6 +682,8 @@ In order to apply CSS customizations in this and other blocks, follow the instru
 | `packageReceiver`            |
 | `packageShippingEstimate`    |
 | `packageSLA`                 |
+| `printButtonWrapper`         |
+| `printHintWrapper`           |
 | `productImageColumn`         |
 | `productImageWrapper`        |
 | `productInfoColumn`          |
